@@ -1,11 +1,11 @@
-#Trybe
+Trybe
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por Robert Alves da Silva enquanto estudava na _[Trybe](https://www.betrybe.com/) :rocket:
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
 O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
-###Introdução - Desenvolvimento Web :hourglass_flowing_sand:
+Introdução - Desenvolvimento Web :hourglass_flowing_sand:
 
 - Bloco 1: Introdução - Unix & Shell
 [X] 1-3: Unix & Bash - Part 1
@@ -40,7 +40,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 [ ] 5-4: Projeto - 
 [ ] 5-5: Projeto - 
 
-###Desenvolvimento Front-end :hourglass_flowing_sand:
+Desenvolvimento Front-end :hourglass_flowing_sand:
 
 - Bloco 6: Introdução - Front-end
 [ ] 6-1: HTML & CSS - Forms
@@ -119,7 +119,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - Bloco 19: Projeto Final de Front-end
 [ ] 19-1: Projeto - 
 
-###Desenvolvimento Back-end :hourglass_flowing_sand:
+Desenvolvimento Back-end :hourglass_flowing_sand:
 
 - Bloco 20: Introdução - Bancos de dados relacionais
 [ ] 20-1: Banco de dados SQL
@@ -200,7 +200,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online e aborda 
 - Bloco 34: Projeto
 [ ] 34-1: Projeto - 
 
-###Ciência da Computação :hourglass_flowing_sand:
+Ciência da Computação :hourglass_flowing_sand:
 
 - Bloco 35: Introdução - Ciência da Computação
 [ ] 35-1: Arquitetura de Computadores
