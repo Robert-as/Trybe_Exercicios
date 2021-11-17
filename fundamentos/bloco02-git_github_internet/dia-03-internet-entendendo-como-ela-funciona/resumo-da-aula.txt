@@ -1,4 +1,0 @@
-comandos aprendidos:
-git log
-git remove
-git pull, push, fetch
