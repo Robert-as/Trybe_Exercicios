@@ -1,33 +1,31 @@
-.super-mario {
-    width: 200px;
-    position: absolute;
-  }
+div:hover {
+  border: 3px solid black;
   
-  .goomba {
-    width: 100px;
-    position: absolute;
-    top: 400px;
-    left: 50px;
-  }
-  
-  .baloon {
-    position: absolute;
-    left: 345px;
-    top: 100px;
-    z-index: 1;
-  }
-  
-  .speach {
-    font-size: 25px;
-    position: absolute;
-    left: 363px;
-    top: 139px;
-    z-index: 2;
-  }
-  
-  .bowser {
-    width: 200px;
-    position: absolute;
-    left: 626px;
-    top: 240px;
-  }
+}
+div:hover:nth-of-type(1) {
+  background-color: blue;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+}
+div:hover:nth-of-type(2) {
+  background-color: purple;
+  color: white;
+  font-family: cursive;
+}
+div:hover:nth-of-type(3) {
+  background-color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  font-style: italic;
+}
+div:hover:nth-of-type(4) {
+  background-color: darkred;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div:hover:nth-of-type(5) {
+  background-color: aquamarine;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+}
