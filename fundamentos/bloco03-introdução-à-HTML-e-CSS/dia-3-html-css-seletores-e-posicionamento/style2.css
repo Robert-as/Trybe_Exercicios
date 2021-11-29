@@ -1,0 +1,31 @@
+div:hover {
+  border: 3px solid black;
+  
+}
+div:hover:nth-of-type(1) {
+  background-color: blue;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-style: italic;
+}
+div:hover:nth-of-type(2) {
+  background-color: purple;
+  color: white;
+  font-family: cursive;
+}
+div:hover:nth-of-type(3) {
+  background-color: yellow;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  font-style: italic;
+}
+div:hover:nth-of-type(4) {
+  background-color: darkred;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+div:hover:nth-of-type(5) {
+  background-color: aquamarine;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+}
