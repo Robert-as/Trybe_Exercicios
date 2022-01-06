@@ -1,0 +1,30 @@
+body {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+    
+} 
+h1 {
+    font-size: 65px;
+    font-family: sans-serif;
+    color: orange;
+}
+ul {
+    background-color: aquamarine;
+    line-height: 30px;
+}
+.change-background {
+    background-color: yellowgreen;
+}    
+p {
+    font-weight: 600;
+    font-size: 3em;
+}
+#N1 {
+    color: yellow;
+}
+#N2 {
+    color: red;
+}
+#N3 {
+    color: brown;
+}
