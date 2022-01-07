@@ -12,10 +12,12 @@
   .header-container {
     background-color: #5C687C;
     display: flex;
+    justify-content: space-evenly;
   }
   .header-container section {
       order: -1;
   }
+
   .logo-container {
     display: flex;
     justify-content: center;
@@ -25,6 +27,8 @@
   .menu-container {
     display: flex;
     width: 500px;
+    justify-content: space-around;
+    flex-grow: 1;
   }
   
   .menu-container ul {
@@ -39,4 +43,5 @@
     font-size: 1.3rem;
     list-style: none;
     margin-right: 10px;
+    margin-left: 10px;
   }
